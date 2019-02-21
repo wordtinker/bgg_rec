@@ -1,0 +1,14 @@
+[package]
+name = "bgg_rec"
+version = "0.1.0"
+authors = ["wordtinker <wordtinker@yandex.ru>"]
+edition = "2018"
+
+[dependencies]
+failure = "0.1.5"
+exitfailure ="0.5.1"
+serde = "1.0.86"
+serde_derive = "1.0.86"
+serde_json = "1.0.38"
+reqwest = "0.9.9"
+indicatif = "0.11.0"
